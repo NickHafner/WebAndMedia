@@ -32,13 +32,12 @@ Results logged in console
 ### Methods of WebAndMedia class: ###
 
 ```JavaScript
-MathFun.fibonacci(input)
-};
+MathFun.fibonacci(input) {}
 ```
 Takes an input and returns the fibonacci of that input
 
 ```js
-MathFun.msuBears = function() {};
+MathFun.msuBears() {}
 ```
 Prints the numbers from 1 to 100. However, for multiples of three print “MSU” instead of the number and for multiples of five print “Bears”. For numbers which are multiples of both three and five print “MSUBears”. 
 
